@@ -1,0 +1,21 @@
+{
+    "devDependencies": {
+        "browser-sync": "^2.7.11",
+        "del": "^1.2.0",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "5.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-minify-css": "1.2.4",
+        "gulp-plumber": "^1.2.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.0"
+    },
+    "dependencies": {
+        "gulp-cache": "^1.0.2",
+        "gulp-stylus": "^2.7.0",
+        "imagemin-jpeg-recompress": "^5.1.0",
+        "imagemin-pngquant": "^6.0.0"
+    }
+}
